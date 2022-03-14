@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: adca8a3ef1c4982469243a5c8fb4d113
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 2e4761492b62bda41a82919a5d45e109, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow
+    second: {fileID: 2100000, guid: 5919942314c2b174bb3615f45170ed5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.002
+    second: {fileID: 2100000, guid: 4ec507c4d6a748c4ebd9c72731207c77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.003
+    second: {fileID: 2100000, guid: 54f8db2974acdb9439830a6b06311b63, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.004
+    second: {fileID: 2100000, guid: 84b0d519ba298544fb9d4110cdb94ce2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.005
+    second: {fileID: 2100000, guid: f7884ec484ed14c4394128fb3b23ea9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.006
+    second: {fileID: 2100000, guid: 31d70c2060a193c4f997b81053fd642f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.007
+    second: {fileID: 2100000, guid: ae1280c872433b2459f699956f2d2b54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.008
+    second: {fileID: 2100000, guid: 637fc92da76178345aa7b106b5ce3532, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.009
+    second: {fileID: 2100000, guid: 00f26d23c1fae134299c0fa6f653faf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.010
+    second: {fileID: 2100000, guid: bdc08770156aaf147b499cedafb28b55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.011
+    second: {fileID: 2100000, guid: 2c7ce24e7ff47ce45bfe8101a39f47fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.012
+    second: {fileID: 2100000, guid: 7738d24569db0934595c81e175781365, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.013
+    second: {fileID: 2100000, guid: 48eed6aa856dee642b05ce7fa3ad63cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.014
+    second: {fileID: 2100000, guid: d5b5c62e1594ca14da4dc1a9ef98622d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.015
+    second: {fileID: 2100000, guid: 434114c4e86b75140b6fd1bf0b9ca707, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.016
+    second: {fileID: 2100000, guid: 219e1120e5350e0408b39667a7481e7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.017
+    second: {fileID: 2100000, guid: e2fa102a80df6914ab7d8612e4946740, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.018
+    second: {fileID: 2100000, guid: 145dec3e2ecc39f408395fce67f16b6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.019
+    second: {fileID: 2100000, guid: 9c32d8e53c32beb4088d5b1aecc808c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.020
+    second: {fileID: 2100000, guid: e8c50b1ac3f56384d8cee498d0ad3e62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.021
+    second: {fileID: 2100000, guid: 5364df9a72d807543889170c79febedf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.022
+    second: {fileID: 2100000, guid: 9881248cdf0ed624180b70891388b45a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.023
+    second: {fileID: 2100000, guid: edc6e80f4792f1943a945c8dffd482a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.024
+    second: {fileID: 2100000, guid: 1c7c91635ca6bd0448691d64a6385c43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.025
+    second: {fileID: 2100000, guid: 0e5fed30a6aa0a94aa13bde9ba8f531b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.026
+    second: {fileID: 2100000, guid: 244354118c1153d4f85df2fad7b19906, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.027
+    second: {fileID: 2100000, guid: 5aba116cace5f0b4283b18fdee1236e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.028
+    second: {fileID: 2100000, guid: ae70476dcbcd8ca4ca9503e4332819b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.029
+    second: {fileID: 2100000, guid: f45987235a9a6304095e4c2927fcc09f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.030
+    second: {fileID: 2100000, guid: f213af89bda9ef34b97b4081cf63e8d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.031
+    second: {fileID: 2100000, guid: ef4c6b18327b0c045a6da45dec36911d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.032
+    second: {fileID: 2100000, guid: b9444cae8474c9e47ae4328942c704b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.033
+    second: {fileID: 2100000, guid: e1893e062b9505e4aac82c2a3346a8fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.034
+    second: {fileID: 2100000, guid: 6d0dc7c60be66e94484ff7d446863f65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.035
+    second: {fileID: 2100000, guid: ff890f06c16e7cd439ebdcce4c154b2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.036
+    second: {fileID: 2100000, guid: afb64a22fdce2eb479555e66538a4e18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.037
+    second: {fileID: 2100000, guid: 5ee6d278e49e7ae49968bafb6ee208b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.038
+    second: {fileID: 2100000, guid: 00891b5e2303fdf428dabe35bc3d305b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.039
+    second: {fileID: 2100000, guid: ee4f4ac0e67e4544da767d8c8872270e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.040
+    second: {fileID: 2100000, guid: e8e5d6a386501e84b9bdabdd385a31ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.041
+    second: {fileID: 2100000, guid: 8e64543902a09cc48bd4b52991c8ff80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.042
+    second: {fileID: 2100000, guid: 234feed6586bda3499a60ce68f9da026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.043
+    second: {fileID: 2100000, guid: fd19e6de35c98574486dc8bcb200bea5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.044
+    second: {fileID: 2100000, guid: 8655ba5b290b761488683cb54c5fe1c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.045
+    second: {fileID: 2100000, guid: 4d64f8a1b8b85494f950bd001b54cddf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.046
+    second: {fileID: 2100000, guid: 6dcaedaa58fe9f5479d0217a90370eee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.047
+    second: {fileID: 2100000, guid: cce2bac355578c14293f43e88c734233, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.048
+    second: {fileID: 2100000, guid: 7c3dfe0b3e26880419aad4be07aa3bc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Snow.049
+    second: {fileID: 2100000, guid: 5aa4f9b160ff87b48a5644876ba42e10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone1
+    second: {fileID: 2100000, guid: c82b3b8fe2ad0ab4a861ac10fc501d68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stone2
+    second: {fileID: 2100000, guid: c104f8b396a00f44b99093d94e71d48f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall1
+    second: {fileID: 2100000, guid: a035cf3313293d243bfb351be157d39c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall2
+    second: {fileID: 2100000, guid: 7f43f1881a89b3945a952d9067c89bd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood1
+    second: {fileID: 2100000, guid: d9149f495b3cf5443b17d83123a3fd96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood2
+    second: {fileID: 2100000, guid: 4f49525530a52f94eb1873b35926593e, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
